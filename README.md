@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu-vasan&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu-vasan" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24297652"></img>
+
+
+
 - 🔭 I’m currently interning at **RBCDSAI, IIT Madras, Chennai**
 
 - 📫 How to reach me **vasan2001@gmail.com**
