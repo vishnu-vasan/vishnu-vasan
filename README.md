@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu-vasan&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu-vasan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnu-vasan" alt="vishnu-vasan" /></a> </p>
-
 - 🔭 I’m currently interning at **RBCDSAI, IIT Madras, Chennai**
 
 - 📫 How to reach me **vasan2001@gmail.com**
