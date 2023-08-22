@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋, I'm R Vishnu Vasan</h1>
+<h1 align="center">Hello! 👋, I'm Vishnuvasan Raghuraman</h1>
 <h3 align="center">An Inquisitive IT Undergraduate Student willing to learn and work on various fields in the Tech Industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu-vasan&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu-vasan" /> </p>
