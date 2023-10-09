@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently interning at **RBCDSAI, IIT Madras, Chennai**
+- 🔭 I’m currently pursuing my Master's in **Computer Science** at **Texas A&M University, College Station**
 
-- 📫 How to reach me **vasan2001@gmail.com**
+- 📫 How to reach me **vasan2001@tamu.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eictwE9eTcVRAu8Uy2zEhO67hAe9yAg_/view?usp=sharing](https://drive.google.com/file/d/1eictwE9eTcVRAu8Uy2zEhO67hAe9yAg_/view?usp=sharing)
+- 📄 Know about my experiences [Vishnu's Resume](https://drive.google.com/file/d/1QWzfhDynDo4q33wCMRjPZA4-F2y5ulEr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
