@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vasan2001@tamu.edu**
 
-- 📄 Know about my experiences [Vishnuvasan's Resume](https://drive.google.com/file/d/13RNLkzOwT81v4pPgJw4-0I7TPiwER8t4/view?usp=drive_link))
+- 📄 Know about my experiences [Vishnuvasan's Resume](https://drive.google.com/file/d/13RNLkzOwT81v4pPgJw4-0I7TPiwER8t4/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
